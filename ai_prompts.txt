@@ -79,7 +79,7 @@ f"Write a speech about the dangers of mutated rabbits disrupting the civil right
 f"Write a protest against Bork Insurance. Do so in {str(int(useNorm[0]))} tokens."
 "businessmen with cheese for noses."
 "Write a reggae poem starting with "Me bobba rhyme no"
-"jamaican with chicken wing for face"
+"jamaican with wings for face"
 f"Write a {str(int(useNorm[0]))} token news article about a pretentious walrus eating cake."
 "walrus eating cake"
 "Write a comedic one-liner starting with 'Deprive them of the right to vote' and ending with 'arrested and chained today!'
